@@ -11,7 +11,7 @@ tags:
 
 I recently made a decision to read more books. Inspired by great blogs such as [Farnam Street](https://www.farnamstreetblog.com) and [Ribbon Farm](https://www.ribbonfarm.com), I decided to conciously prioritize reading. To that extent, I ordered half a dozen books from Amazon on a myriad of subjects. One of the first books I began to read is this one. 
 
-<a href="https://read.amazon.com/kp/embed?asin=B005V2DUP4&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_pfSdzb54WJH0R" rel="some text">![book cover]({{ site.url }}assets/tiny-beautiful-things/cover.jpg)]</a>
+<a href="https://read.amazon.com/kp/embed?asin=B005V2DUP4&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_pfSdzb54WJH0R" rel="some text">![book cover]({{ site.url }}assets/tiny-beautiful-things/cover.jpg)</a>
 
 
 
