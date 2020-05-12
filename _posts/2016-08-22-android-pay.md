@@ -78,5 +78,5 @@ Thirdly, you really can't leave home without your cards. You don't want to be th
 
 ![android app review]({{ site.url }}assets/android pay/review.png) 
 
-*EDIT: I recently recieved a reply on my review of the Android Pay app on the Play Store. It was not very helpful. It basically says, "If your transaction is declined, contact your card-issuing bank for more information." 
-Now that is not very helpful.*
+*EDIT: I recently received a reply on my review of the Android Pay app on the Play Store. It was not very helpful. It basically says, "If your transaction is declined, contact your card-issuing bank for more information." 
+Now that, is not very helpful.*
